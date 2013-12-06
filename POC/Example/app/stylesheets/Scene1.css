@@ -7770,3 +7770,9 @@ body.with-listing-chooser.listing-chooser-collapsed .listing-chooser .grippy:aft
 .submit_text.enabled {
     display: inline-block;
 }
+#SceneScene1 #list_item1{
+	position : absolute;
+	left : 249px;
+	top : 137px;
+	width : 112px;
+}

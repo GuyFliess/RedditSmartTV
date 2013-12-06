@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation" xmlns:tv.samsung.sdk="http://www.samsung.com/tvsdk">
+  <tv.samsung.sdk:VisualScene xmi:id="_jY1DsF6KEeO-p9osu58xJQ" sId="5i7x0fyqk4rjp" sName="comments" sType="2" sBgImage="" sBgClr="#ffffff" sWidth="1280" sHeight="720">
+    <sComponents xmi:type="tv.samsung.sdk:VisualCtrlComponent" xmi:id="_k_C28F6zEeOXjcmWSvMubw" sWidth="112.0" sHeight="149.0" sBgImage="images/listbox/listbox.png" sId="list" sCaption="" sResizeOpt="ResizeOption_Width" sUserCodeIncludeJs="" sUserCodeInit="" sUserCodeDestroy="" sUserLibJs="" sUserLibImgDir="" sUserLibCss="" sType="listbox" sFunctionName="sfList" sLockCaption="true" sLockHeight="true" sLockBgImage="true">
+      <sCssAttrs xmi:type="tv.samsung.sdk:CssAttrStruct" xmi:id="_k_C28V6zEeOXjcmWSvMubw" sType="NUMBER" sValue="130" sName="left"/>
+      <sCssAttrs xmi:type="tv.samsung.sdk:CssAttrStruct" xmi:id="_k_C28l6zEeOXjcmWSvMubw" sType="NUMBER" sValue="140" sName="top"/>
+      <sCssAttrs xmi:type="tv.samsung.sdk:CssAttrStruct" xmi:id="_k_C2816zEeOXjcmWSvMubw" sType="NUMBER" sValue="112" sName="width"/>
+      <sParams xmi:type="tv.samsung.sdk:ParamStruct" xmi:id="_k_C29F6zEeOXjcmWSvMubw" sName="data" sValue="'item1','item2','item3'" sType="ARRAY"/>
+      <sParams xmi:type="tv.samsung.sdk:ParamStruct" xmi:id="_k_C29V6zEeOXjcmWSvMubw" sName="index" sValue="0" sType="NUMBER"/>
+    </sComponents>
+  </tv.samsung.sdk:VisualScene>
+  <notation:Diagram xmi:id="_jY4HAF6KEeO-p9osu58xJQ" type="VisualScene" element="_jY1DsF6KEeO-p9osu58xJQ" name="comments.scene" measurementUnit="Pixel">
+    <children xmi:type="notation:Shape" xmi:id="_k_C29l6zEeOXjcmWSvMubw" type="2001" element="_k_C28F6zEeOXjcmWSvMubw" fontName="Segoe UI">
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_k_C2-F6zEeOXjcmWSvMubw" x="130" y="140" width="112" height="149"/>
+    </children>
+    <styles xmi:type="notation:DiagramStyle" xmi:id="_jY4HAV6KEeO-p9osu58xJQ"/>
+  </notation:Diagram>
+</xmi:XMI>
